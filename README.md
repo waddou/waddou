@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React ,PostgreSQL**
 
-- 📫 How to reach me **ads.particulier.tn@gmail.com**
+- 📫 How to reach me **ads.particulier.tn gmail com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
